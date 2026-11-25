@@ -1,0 +1,53 @@
+{
+ "name": "4BusinessPlan",
+ "short_name": "4BusinessPlan",
+ "description": "Business plan tool for the Entrepreneurship course, DUTH (Prof. Periklis Gogas, E|M|E|F Lab)",
+ "lang": "el",
+ "start_url": "./",
+ "scope": "./",
+ "id": "./",
+ "display": "standalone",
+ "background_color": "#f5f3ec",
+ "theme_color": "#1f3a5f",
+ "icons": [
+  {
+   "src": "icons/icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png"
+  },
+  {
+   "src": "icons/icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png"
+  },
+  {
+   "src": "icons/icon-maskable-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "maskable"
+  }
+ ],
+ "file_handlers": [
+  {
+   "action": "./",
+   "accept": {
+    "application/x-4businessplan": [
+     ".4bp"
+    ]
+   },
+   "icons": [
+    {
+     "src": "icons/file-4bp-256.png",
+     "sizes": "256x256",
+     "type": "image/png"
+    },
+    {
+     "src": "icons/file-4bp-512.png",
+     "sizes": "512x512",
+     "type": "image/png"
+    }
+   ],
+   "launch_type": "single-client"
+  }
+ ]
+}
