@@ -7,7 +7,7 @@
 
 ## Άνοιγμα
 
-- Στον browser: https://perrygogas.github.io/4businessplan/
+- Στον browser: https://perrygogas.github.io/4BusinessPlan/
 - Εγκατάσταση ως εφαρμογή (Chrome ή Edge): ανοίξτε τη σελίδα και πατήστε το εικονίδιο εγκατάστασης στη γραμμή διεύθυνσης. Μετά την εγκατάσταση, τα αρχεία `.4bp` ανοίγουν με διπλό κλικ και έχουν το εικονίδιο 4BP.
 - Χωρίς σύνδεση: κατεβάστε το `4BusinessPlan-offline.html` και ανοίξτε το με τον browser.
 
